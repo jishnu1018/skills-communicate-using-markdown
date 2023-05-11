@@ -1,15 +1,12 @@
-# This is an intro to Markdown
-
-## This is an image
-![Mask Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV42ikr2UR7zq-EYqyFoUuKGdhM0_1d7s68g&usqp=CAU)
-
-## This is a code
+# Communicate Using Markdown
+#### Look at this image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### Its a code 
 ```
->>> print("Hello, World!")
-Hello, World!
+print('Hi! Its me')
+Hi! Its me
 ```
-
-## This is a tasklist
-- [x] Added an image
-- [x] Added code
-- [ ] Adding task list
+#### Tasklist  
+- [x] Done introduction to github
+- [x] Completed cat photo app
+- [ ] Added markdown
